@@ -1,0 +1,5 @@
+Explain
+
+
+Para terminar o código basta apenas atribuir valores aos atributos utilizando os metódos getter e setters definidos em cada classe.
+Mostrando assim na tela todas as informações quais queira passar para o úsuario. 
